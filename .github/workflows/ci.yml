@@ -1,4 +1,5 @@
-name: MLflow CI Workflow
+ name: Run MLflow Project
+ run: python -m mlflow run . --env-manager=local
 
 on:
   push:
