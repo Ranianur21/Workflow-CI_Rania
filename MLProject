@@ -1,4 +1,6 @@
-name: breast-cancer-mlflow
+name: BreastCancer-CI
+
+python_env: requirements.txt
 
 entry_points:
   main:
