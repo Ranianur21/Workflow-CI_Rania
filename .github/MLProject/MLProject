@@ -1,4 +1,4 @@
-name: breast-cancer-mlflow-project
+name: mlflow-basic-project
 
 conda_env: conda.yaml
 
